@@ -1,0 +1,15 @@
+Order_ID,Order_Date,Product_ID,Product_Name,Category,Brand,Unit_Price,Quantity,Discount_Percent,Total_Sales,Cost_Price,Profit,Customer_Type,City,Store_Type,Payment_Mode
+E1001,2024-01-03,P101,Smartphone,Mobile Phones,Samsung,18000,2,5,34200,15000,4200,New,Delhi,Offline,UPI
+E1002,2024-01-05,P102,Laptop,Laptops,HP,55000,1,10,49500,47000,2500,Returning,Mumbai,Online,Card
+E1003,2024-01-10,P103,Bluetooth Speaker,Accessories,JBL,6000,3,0,18000,4200,5400,New,Bengaluru,Offline,Cash
+E1004,2024-02-02,P104,Smartwatch,Wearables,Noise,4500,4,5,17100,3200,4300,Returning,Pune,Online,UPI
+E1005,2024-02-18,P105,Refrigerator,Home Appliances,LG,32000,1,8,29440,27000,2440,New,Delhi,Offline,Card
+E1006,2024-03-07,P106,Air Conditioner,Home Appliances,Voltas,42000,1,12,36960,35000,1960,Returning,Chennai,Offline,UPI
+E1007,2024-04-11,P107,Tablet,Tablets,Apple,38000,1,0,38000,33000,5000,New,Mumbai,Online,Card
+E1008,2024-05-19,P108,Wireless Earbuds,Accessories,Boat,2500,6,10,13500,1800,2700,Returning,Hyderabad,Offline,Cash
+E1009,2025-01-06,P101,Smartphone,Mobile Phones,Samsung,19000,1,5,18050,15500,2550,Returning,Delhi,Online,Card
+E1010,2025-01-15,P102,Laptop,Laptops,Dell,58000,1,8,53360,49000,4360,New,Bengaluru,Offline,UPI
+E1011,2025-02-04,P109,LED TV,Home Appliances,Sony,65000,1,10,58500,56000,2500,Returning,Pune,Online,Card
+E1012,2025-02-22,P110,Gaming Mouse,Accessories,Logitech,3200,5,0,16000,2200,5000,New,Chennai,Offline,Cash
+E1013,2025-03-09,P111,Power Bank,Accessories,Mi,1800,7,5,11970,1200,3570,Returning,Mumbai,Online,UPI
+E1014,2025-03-27,P104,Smartwatch,Wearables,Noise,4800,3,5,13680,3400,3480,New,Delhi,Offline,Card
